@@ -1,4 +1,7 @@
 # TextFromImage
+
+visit: https://laconicml.com/ for FREE AI tutorials
+
 This repository contains .zip file named text_from_image.
 In the zip file, you can find few pictures that I used for testing my model, and a folder called data, that contains the training data.
 There are also two .py files, problem, which contains the training of the model and text_creator that forms words from letters.
